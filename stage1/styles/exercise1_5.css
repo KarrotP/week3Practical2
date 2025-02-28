@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    height: 300px;
+}
+
+#sq2, #sq5, #sq8 {
+    align-self: center;
+}
+
+#sq3, #sq6, #sq9 {
+    align-self: flex-end;
+}
+
+#sq4, #sq7 {
+    margin-left: -200px;
+}
+
+
+/* }  
+#sq1 {
+    order: 1;
+}
+
+#sq2 {
+    order: 4;
+    margin-left: 100px;
+}
+
+#sq3 {
+    order: 7;
+    margin-left: 200px;
+}
+
+#sq4 {
+    order: 2;
+}
+
+#sq5 {
+    order: 5;
+}
+
+#sq6 {
+    order: 8;
+}
+
+#sq7 {
+    order: 3;
+}
+
+#sq8 {
+    order: 6;
+}
+
+#sq9 {
+    order: 9;
+*/
